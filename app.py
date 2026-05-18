@@ -27,7 +27,7 @@ DEFAULTS = {
     "labor_rate": 35.0,
     "material_rate": 85.0,
     "description": "Complete new home build estimate based on square footage."
-},
+}'
 
     
     "Siding": {
