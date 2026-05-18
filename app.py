@@ -37,7 +37,7 @@ DEFAULTS = {
     "material_rate": 45.0,
     "description": "Renovation estimate based on labor hours and materials."
 },
-    },
+    
     "Siding": {
         "labor_unit": "square",
         "labor_rate": 650.0,
