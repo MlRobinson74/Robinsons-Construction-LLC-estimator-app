@@ -31,6 +31,7 @@ DEFAULTS = {
     "description": "Complete new home build estimate based on square footage."
 },
 
+
 "Renovation": {
     "labor_unit": "hour",
     "labor_rate": 100.0,
