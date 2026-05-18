@@ -22,7 +22,7 @@ DEFAULTS = {
         "material_rate": 35.0,
         "description": "Rough framing estimate based on building square footage. Includes wall/roof framing allowance."
 
-        "New Home Build": {
+        },"New Home Build": 
     "labor_unit": "sq ft",
     "labor_rate": 35.0,
     "material_rate": 85.0,
